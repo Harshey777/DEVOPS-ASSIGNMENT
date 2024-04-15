@@ -1,2 +1,24 @@
-tyrthrgvhjfnb
-bngnfg
+<!DOCTYPE html>
+<html>
+  <head>
+    <title> Catalog Page</title>
+  </head>
+  <body align="center">
+    <h2>Catalog Page</h2>
+    <div class="Product">
+    <img src="https://assets.ajio.com/cms/AJIO/WEB/M-1.0-WHP-010224-AJIOEXCLUSIVES-4-ORCHIDBLUES.jpg" alt="Festive wear chudidhar"/>
+    <h3>Festive wear chudidhar</h3>
+    <p>Orchid Blues Festive Wear Red chudidhar</p>
+    <p> Price: 1999/-</p>
+    <button onclick="AddToCart('Product1',1999)">AddToCart</button>
+    </div>
+    <br>
+    <br>
+    <br>
+    <div class="Product">
+      <img src="https://assets.ajio.com/cms/AJIO/WEB/D-1.0-MHP-05042024-Z6-closetclassics-indianterrain-min40.jpg" alt="Indian Terrain Casual Wear"/>
+      <h3>Indian Terrain Casual Wear</h3>
+      <p>Indian Terrain Casual Wear Light Pink</p>
+      <p> Price: 1999/-</p>
+      <button onclick="AddToCart('Product2',1999)">AddToCart</button>
+      </div>
